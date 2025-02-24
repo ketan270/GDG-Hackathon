@@ -1,1 +1,1 @@
-# Telos-Mini-Hackathon
+# GDG Hackathon
